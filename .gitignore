@@ -329,3 +329,4 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 Com.Danliris.Service.Auth.WebApi/appsettings.json
+Com.Ambassador.Service.Auth.WebApi/appsettings.json
